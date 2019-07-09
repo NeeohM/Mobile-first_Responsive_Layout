@@ -1,0 +1,5 @@
+320 completed
+768 
+header banner footer nav changes
+it is good practice when
+doing responsive desing to note all the things that dont change from page to page
