@@ -45,8 +45,7 @@ body{
 }
  .banner p{
      font-size: 1.3em;
-     font-family: 'Open Sans',
-     sans-serif;
+     font-family: 'Open Sans', sans-serif;
      color: rgb(0, 153, 46);
      padding: 0 20px 50px;
      
@@ -179,15 +178,17 @@ footer {
     top: 18px;
 }
 }
-@media (min-width:320px) and (max-width: 768px)
+@media (min-width: 768px)
 {
 .top-header ul li {
     background: rgb(173, 236, 255);
     padding: 20px 0;
     display: inline-block;
-    padding: 0 50px;
+    padding: 0 40px;
+    
     
 }
+
 .top-header h1 {
     margin-top: 0;
     padding: 30px 0 0;
